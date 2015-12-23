@@ -1,4 +1,4 @@
-drop table S_ICON_LIB cascade constraints;
+﻿drop table S_ICON_LIB cascade constraints;
 
 /*==============================================================*/
 /* Table: S_ICON_LIB                                            */
@@ -15,7 +15,7 @@ comment on table S_ICON_LIB is
 '图标库';
 
 comment on column S_ICON_LIB.ICON_ID is
-'图标ID';
+'图标ID';'=]=\
 
 comment on column S_ICON_LIB.ICON_TYPE is
 '图标分类';
