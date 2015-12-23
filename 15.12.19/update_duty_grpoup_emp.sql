@@ -1,0 +1,1 @@
+alter table duty_grpoup_emp modify(emp_name varchar2(64));

@@ -1,0 +1,1 @@
+alter table warehouse_inbound modify wh_in_emp varchar2(32);

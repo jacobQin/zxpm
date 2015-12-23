@@ -1,0 +1,1 @@
+alter table warehouse_outbound modify wh_out_emp varchar2(32);
